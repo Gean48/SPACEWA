@@ -1,6 +1,4 @@
-[
-
-{
+[{
   "theme_server":"YxWhatsApp",
   "theme_name":"UI Pink",
   "theme_user":"Gean",
