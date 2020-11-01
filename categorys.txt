@@ -1,6 +1,6 @@
 {
- "category_title_1":"Wênnya Lucenna",
- "category_tags_1":"WênnyaLucenna",
+ "category_title_1":"YxWhatsApp",
+ "category_tags_1":"YxWhatsApp",
  "category_title_2":"Mayk",
  "category_tags_2":"Mayk",
  "category_title_3":"Huss",
