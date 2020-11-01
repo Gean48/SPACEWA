@@ -8,7 +8,5 @@
  "category_title_4":"MNWhatsApp",
  "category_tags_4":"MNWhatsApp",
  "category_title_5":"DELTA",
- "category_tags_5":"DELTA",
- "category_title_6":"Gean",
- "category_tags_6":"Gean"
+ "category_tags_5":"DELTA"
 }
