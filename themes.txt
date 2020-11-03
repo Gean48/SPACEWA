@@ -1,6 +1,41 @@
 [
 {
 "theme_server":"DELTA",
+"theme_name":"Orange Amoled",
+"theme_user":"Erio Silva",
+"theme_date":"2 de novembro",
+"theme_size":"2,25 KB",
+"theme_preview_1":"https://telegra.ph/file/5c3d1bd308d23c114081f.jpg",
+"theme_preview_2":"https://telegra.ph/file/721676c9ab52ca54cd389.jpg",
+"theme_preview_3":"https://telegra.ph/file/3f4ce071307e473acd59f.jpg",
+"theme_download_noads":"https://tgho.st/54m7s",
+"theme_download":"https://bit.ly/38biFDX"
+},
+{
+"theme_server":"DELTA",
+"theme_name":"Lucifer Theme",
+"theme_user":"Erio Silva",
+"theme_date":"2 de novembro",
+"theme_size":"805,47 KB",
+"theme_preview_1":"https://telegra.ph/file/198ec2b59c6e43e4056f9.jpg",
+"theme_preview_2":"https://telegra.ph/file/902f63c92d695c0d9b887.jpg", "theme_preview_3":"https://telegra.ph/file/6d9ef111636dcaf417cdd.jpg",
+"theme_download_noads":"https://tgho.st/CUYaR",
+"theme_download":"https://bit.ly/3oTreJd"
+},
+{
+"theme_server":"DELTA",
+"theme_name":"Blue Gradient",
+"theme_user":"Erio Silva",
+"theme_date":"2 de Novembro",
+"theme_size":"3,76 KB",
+"theme_preview_1":"https://telegra.ph/file/7b71564f3f22074c47c47.jpg",
+"theme_preview_2":"https://telegra.ph/file/bbbe5b1611e448a343a62.jpg",
+"theme_preview_3":"https://telegra.ph/file/535bb17c71c92ff80383c.jpg",
+"theme_download_noads":"https://tgho.st/uGpXG",
+"theme_download":"https://bit.ly/2Jn69qi"
+},
+{
+"theme_server":"DELTA",
 "theme_name":"Baby Long",
 "theme_user":"Erio Silva",
 "theme_date":"2 de novembro",
