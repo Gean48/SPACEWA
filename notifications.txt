@@ -2,8 +2,8 @@
  "type":"banner",
  "banner_url":"https://telegra.ph/Speed-Up-Add-on-10-18",
  "title":"Usa Twitter?",
- "description":"Que tal seguir a conta do desenvolvedor mais lindo do Brasil? Não custa nada ;)",
- "button_url":"seguir",
- "url":"https://mobile.twitter.com/ClebersonJrX",
+ "description":"Ainda não sabe baixar temas na loja ? Assista ao vídeo e aprenda a baixar os melhores temas! 😍😎",
+ "button_url":"Assistir",
+ "url":"https://youtu.be/nLkmrqqGCSk",
  "id":"twittermgp2"
 }
