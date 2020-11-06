@@ -6,7 +6,5 @@
  "category_title_3":"FMWhatsApp",
  "category_tags_3":"FMWhatsApp",
  "category_title_4":"DELTA",
- "category_tags_4":"DELTA",
- "category_title_5": "AERO",
- "category_tags_5": "AERO"
+ "category_tags_4":"DELTA"
 }
