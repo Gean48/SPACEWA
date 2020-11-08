@@ -32,7 +32,7 @@
 "theme_preview_1":"https://telegra.ph/file/60269ee025bfcd84a6e66.jpg",
 "theme_preview_2":"https://telegra.ph/file/26ad7c9745f101578d9a0.jpg",
 "theme_preview_3":"https://telegra.ph/file/786fee225fdbb80330f72.jpg",
-"theme_download_noads":"https://www.mediafire.com/download/vnbtlihfsrjamzf,"
+"theme_download_noads":"https://www.mediafire.com/download/vnbtlihfsrjamzf",
 "theme_download":"https://bit.ly/356fAmo"
 },
 {
