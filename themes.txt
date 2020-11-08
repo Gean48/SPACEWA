@@ -121,18 +121,6 @@
 },
 {
   "theme_server":"DELTA",
-  "theme_name":"White",
-  "theme_user":"Gean",
-  "theme_date":"6 de novembro",
-  "theme_size":"3.7 KB",
-  "theme_preview_1":"https://telegra.ph/file/fd224c80608332eb39704.jpg",
-  "theme_preview_2":"https://telegra.ph/file/1ff3f29257eff1172b1dd.jpg",
-  "theme_preview_3":"https://telegra.ph/file/1ff3f29257eff1172b1dd.jpg",
-  "theme_download_noads":"https://tlgur.com/d/8ek1APkg",
-  "theme_download":"https://bit.ly/3l45h8f"
-},
-{
-  "theme_server":"DELTA",
   "theme_name":"Pink",
   "theme_user":"Gean",
   "theme_date":"6 de novembro",
