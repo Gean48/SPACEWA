@@ -120,8 +120,6 @@
 "theme_download":"https://bit.ly/2JNW1ar"
 },
 {
-
-{
   "theme_server":"DELTA",
   "theme_name":"White",
   "theme_user":"Gean",
