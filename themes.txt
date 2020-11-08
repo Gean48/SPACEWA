@@ -85,18 +85,6 @@
 },
 {
 "theme_server":"YxWhatsApp",
-"theme_name":"Telegram Ui Dark",
-"theme_user":"Erio Silva",
-"theme_date":"8 de novembro",
-"theme_size":"2.7 KB",
-"theme_preview_1":"https://telegra.ph/file/49fdc9b0cf002cec0d2ce.jpg",
-"theme_preview_2":"https://telegra.ph/file/987076078c77825a555b2.jpg",
-"theme_preview_3":"https://telegra.ph/file/0f7d1adcebfd2110dd9db.jpg",
-"theme_download_noads":"https://www.mediafire.com/download/wa4fyry2f8mr5vt",
-"theme_download":"https://bit.ly/2JNW1ar"
-},
-{
-"theme_server":"YxWhatsApp",
 "theme_name":"Meliodas",
 "theme_user":"Erio Silva",
 "theme_date":"8 de novembro",
