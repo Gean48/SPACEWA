@@ -95,7 +95,6 @@
 "theme_download_noads":"https://www.mediafire.com/download/wa4fyry2f8mr5vt,"
 "theme_download":"https://bit.ly/2JNW1ar"
 },
-
 {
 "theme_server":"YxWhatsApp",
 "theme_name":"Meliodas",
