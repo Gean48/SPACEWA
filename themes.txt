@@ -10,7 +10,7 @@
   "theme_preview_3":"https://telegra.ph/file/01cf63757c45293fe956c.jpg",
   "theme_download_noads":"https://tlgur.com/d/8ek1APkg",
   "theme_download":"https://bit.ly/2Ug2Ovj"
-},
+},
 {
   "theme_server":"DELTA",
   "theme_name":"HelloK",
@@ -22,7 +22,7 @@
   "theme_preview_3":"https://telegra.ph/file/831496101b3aba473f7fb.jpg",
   "theme_download_noads":"https://tlgur.com/d/8ek1APkg",
   "theme_download":"https://bit.ly/3kb23yh"
-},
+},
 {
 "theme_server":"YxWhatsApp",
 "theme_name":"White Green",
