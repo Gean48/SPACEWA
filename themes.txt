@@ -732,7 +732,7 @@
   "theme_download":"https://bit.ly/34o1759"
 },
 {
-  "theme_server":"DELTA",
+  "theme_server":"Aplicações",
   "theme_name":"DELTA V3.4.1",
   "theme_user":"Gean",
   "theme_date":"10 de novembro",
