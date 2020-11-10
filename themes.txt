@@ -730,4 +730,16 @@
   "theme_preview_3":"https://telegra.ph/file/f258aa67f7bfbae7d38d1.jpg",
   "theme_download_noads":"https://tgho.st/keZLN",
   "theme_download":"https://bit.ly/34o1759"
+},
+{
+  "theme_server":"DELTA",
+  "theme_name":"DELTA V3.4.1",
+  "theme_user":"Gean",
+  "theme_date":"10 de novembro",
+  "theme_size":"0,0 MB",
+  "theme_preview_1":"https://telegra.ph/file/2dc3b3ededa071ed76454.jpg",
+  "theme_preview_2":"https://telegra.ph/file/933d54e9bd77832085148.jpg",
+  "theme_preview_3":"https://telegra.ph/file/96f203a849f43f67403ce.jpg",
+  "theme_download_noads":"https://tgho.st/keZLN",
+  "theme_download":"https://modsalfa.blogspot.com/2020/04/delta-yowa.html"
 }]
