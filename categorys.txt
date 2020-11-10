@@ -1,6 +1,6 @@
 {
 "category_title_1":"Aplicações",
- "category_tags_1":"topdown",
+ "category_tags_1":"Aplicações",
  "category_title_2":"GBWhatsApp",
  "category_tags_2":"GBWhatsApp",
  "category_title_3": "YxWhatsApp",
