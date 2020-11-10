@@ -1,6 +1,6 @@
 {
-"category_title_1":"WAModd",
- "category_tags_1":"Wamods",
+"category_title_1":"WAMods",
+ "category_tags_1":"WAMods",
  "category_title_2":"GBWhatsApp",
  "category_tags_2":"GBWhatsApp",
  "category_title_3": "YxWhatsApp",
