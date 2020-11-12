@@ -2,7 +2,7 @@
 
 {
   "theme_server":"AERO",
-  "theme_name":"hELLO Kitty",
+  "theme_name":"Hello Kitty",
   "theme_user":"Gean",
   "theme_date":"12 de novembro",
   "theme_size":"1,1 MB",
