@@ -2,6 +2,42 @@
 
 {
   "theme_server":"DELTA",
+  "theme_name":"Samurai",
+  "theme_user":"Gean",
+  "theme_date":"11 de novembro",
+  "theme_size":"1,4 MB",
+  "theme_preview_1":"https://telegra.ph/file/b6f6d2f7e2ab17ab6c7c2.jpg",
+  "theme_preview_2":"https://telegra.ph/file/dd24b5b315b3ceec172d6.jpg",
+  "theme_preview_3":"https://telegra.ph/file/8222f7f0e0a52912dd30f.jpg",
+  "theme_download_noads":"https://tgho.st/keZLN",
+  "theme_download":"https://bit.ly/2Ikrr89"
+},
+{
+  "theme_server":"DELTA",
+  "theme_name":"Hello Kitty",
+  "theme_user":"Gean",
+  "theme_date":"11 de novembro",
+  "theme_size":"1,0 MB",
+  "theme_preview_1":"https://telegra.ph/file/4167e5dd72471f20875e8.jpg",
+  "theme_preview_2":"https://telegra.ph/file/e30df11f29cc5e1c30706.jpg",
+  "theme_preview_3":"https://telegra.ph/file/9f51531e5aa71a218c7f9.jpg",
+  "theme_download_noads":"https://tgho.st/keZLN",
+  "theme_download":"https://bit.ly/3nkI3uX"
+},
+{
+  "theme_server":"DELTA",
+  "theme_name":"Cat",
+  "theme_user":"Gean",
+  "theme_date":"11 de novembro",
+  "theme_size":"430,0 KB",
+  "theme_preview_1":"https://telegra.ph/file/f135f986d3068280faacc.jpg",
+  "theme_preview_2":"https://telegra.ph/file/4c8620766b13c28a6908d.jpg",
+  "theme_preview_3":"https://telegra.ph/file/b24733f71e184f4de230d.jpg",
+  "theme_download_noads":"https://tgho.st/keZLN",
+  "theme_download":"https://bit.ly/3lBrDhH"
+},
+{
+  "theme_server":"DELTA",
   "theme_name":"Caulifla",
   "theme_user":"Gean",
   "theme_date":"11 de novembro",
