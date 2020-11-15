@@ -2,6 +2,78 @@
 
 {
 "theme_server":"YxWhatsApp",
+"theme_name":"Gradient Colors Two",
+"theme_user":"Erio Silva",
+"theme_date":"15 de novembro",
+"theme_size":"2,3 KB",
+"theme_preview_1":"https://telegra.ph/file/8d9495ece7e516c189c62.jpg",
+"theme_preview_2":"https://telegra.ph/file/748c01e97d0011abbbfca.jpg",
+"theme_preview_3":"https://telegra.ph/file/69e2c674c6903efeb0f75.jpg",
+"theme_download_noads":"https://www.mediafire.com/download/epjewmd80s1aprr",
+"theme_download":"https://bit.ly/2Uwhjvs"
+},
+{
+"theme_server":"YxWhatsApp",
+"theme_name":"Gradient Colors Green",
+"theme_user":"Erio Silva",
+"theme_date":"15 de novembro",
+"theme_size":"2,3 KB",
+"theme_preview_1":"https://telegra.ph/file/4080d9ce5cf22748ac422.jpg",
+"theme_preview_2":"https://telegra.ph/file/cd81e8572901b48239769.jpg",
+"theme_preview_3":"https://telegra.ph/file/6d9b29dd54e0c41de849c.jpg",
+"theme_download_noads":"https://www.mediafire.com/download/zydsu7jq6ej4sy9",
+"theme_download":"https://bit.ly/38H1v17"
+},
+{
+"theme_server":"YxWhatsApp",
+"theme_name":"ELITE",
+"theme_user":"Erio Silva",
+"theme_date":"15 de novembro",
+"theme_size":"857,5 KB",
+"theme_preview_1":"https://telegra.ph/file/e4d3e396cfee9c85351ea.jpg",
+"theme_preview_2":"https://telegra.ph/file/d813058d6f10933bea6da.jpg",
+"theme_preview_3":"https://telegra.ph/file/8411bae2807e2a4357bb5.jpg",
+"theme_download_noads":"https://www.mediafire.com/download/e7djyoyl91e1i6q",
+"theme_download":"https://bit.ly/3kBJdR4"
+},
+{
+"theme_server":"YxWhatsApp",
+"theme_name":"Mickey & Minnie",
+"theme_user":"Erio Silva",
+"theme_date":"15 de novembro",
+"theme_size":"804,4 KB",
+"theme_preview_1":"https://telegra.ph/file/3c04779f655957d67a8ac.jpg",
+"theme_preview_2":"https://telegra.ph/file/076804142c4495ce2cd99.jpg",
+"theme_preview_3":"https://telegra.ph/file/e74ae3534511738bc9096.jpg",
+"theme_download_noads":"https://www.mediafire.com/download/se7va160tmfm2l3",
+"theme_download":"https://bit.ly/38GUWM1"
+},
+{
+"theme_server":"YxWhatsApp",
+"theme_name":"Cute Unicorns",
+"theme_user":"Erio Silva",
+"theme_date":"15 de novembro",
+"theme_size":"830,4 KB",
+"theme_preview_1":"https://telegra.ph/file/dc54db3d5ed52162cecc0.jpg",
+"theme_preview_2":"https://telegra.ph/file/1c595c799ece7180bfafa.jpg",
+"theme_preview_3":"https://telegra.ph/file/b42d7cc8a925d18e6fc62.jpg",
+"theme_download_noads":"https://www.mediafire.com/download/k48m38z7hg8iuq5",
+"theme_download":"https://bit.ly/38GUWM1"
+},
+{
+"theme_server":"YxWhatsApp",
+"theme_name":"Ariana Grande",
+"theme_user":"Erio Silva",
+"theme_date":"15 de novembro",
+"theme_size":"981,3 KB",
+"theme_preview_1":"https://telegra.ph/file/303e0a8d6a08c35da8355.jpg",
+"theme_preview_2":"https://telegra.ph/file/463520b46ba42c27f8f9b.jpg",
+"theme_preview_3":"https://telegra.ph/file/3c0a3dbd7211f876c64a1.jpg",
+"theme_download_noads":"https://www.mediafire.com/download/4hbatc569x35g3e",
+"theme_download":"https://bit.ly/2ItJ9Gj"
+},
+{
+"theme_server":"YxWhatsApp",
 "theme_name":"Taylor Swift",
 "theme_user":"Erio Silva",
 "theme_date":"15 de novembro",
@@ -35,18 +107,6 @@
 "theme_preview_3":"https://telegra.ph/file/7e703f3d3cdd3fc329433.jpg",
 "theme_download_noads":"https://www.mediafire.com/download/x7jmvehq1jz56sp",
 "theme_download":"https://bit.ly/2Iti7ik"
-},
-{
-"theme_server":"YxWhatsApp",
-"theme_name":"Zootopia",
-"theme_user":"Erio Silva",
-"theme_date":"15 de novembro",
-"theme_size":"984,0 KB",
-"theme_preview_1":"https://telegra.ph/file/78b77948fa8cd6271a6c8.jpg",
-"theme_preview_2":"https://telegra.ph/file/4e403787119b4caded488.jpg",
-"theme_preview_3":"https://telegra.ph/file/50ec51a5fa0003786dc5a.jpg",
-"theme_download_noads":"https://www.mediafire.com/download/j99lxsl3959bdh2",
-"theme_download":"https://bit.ly/3nsSE7r"
 },
 {
 "theme_server":"YxwhatsApp",
