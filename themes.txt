@@ -2,6 +2,30 @@
 
 {
 "theme_server":"YxWhatsApp",
+"theme_name":"Taylor Swift",
+"theme_user":"Erio Silva",
+"theme_date":"15 de novembro",
+"theme_size":"1,1 MB",
+"theme_preview_1":"https://telegra.ph/file/3554f9a559c9227bd832a.jpg",
+"theme_preview_2":"https://telegra.ph/file/a7824568eb0f353b2a66c.jpg",
+"theme_preview_3":"https://telegra.ph/file/9b473fe6e4ad207cb9e29.jpg",
+"theme_download_noads":"https://www.mediafire.com/download/iowhto15f7rz5jf",
+"theme_download":"https://bit.ly/3psDil4"
+},
+{
+"theme_server":"YxWhatsApp",
+"theme_name":"Full Black",
+"theme_user":"Erio Silva",
+"theme_date":"15 de novembro",
+"theme_size":"2,1 KB",
+"theme_preview_1":"https://telegra.ph/file/533778bc9adea40540a81.jpg",
+"theme_preview_2":"https://telegra.ph/file/cfcb790a955aced2e2ab4.jpg",
+"theme_preview_3":"https://telegra.ph/file/ae7b5149fd89ec84b94f6.jpg",
+"theme_download_noads":"https://www.mediafire.com/download/p535djfyqifcgcd",
+"theme_download":"https://bit.ly/2ICaYMy"
+},
+{
+"theme_server":"YxWhatsApp",
 "theme_name":"Selena Gomez",
 "theme_user":"Erio Silva",
 "theme_date":"15 de novembro",
