@@ -6,7 +6,7 @@
  "button_url":"DOAR",
  "url":"https://tgho.st/D9mU3",
  "id":"doarmts2"
-},
+}
 {
  "type":"banner",
  "banner_url":"https://telegra.ph/Speed-Up-Add-on-10-18",
