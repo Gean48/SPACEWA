@@ -1,13 +1,3 @@
-[
-{
- "type":"banner",
- "banner_url":"https://telegra.ph/Speed-Up-Add-on-10-18",
- "title":"Quer fazer uma doação",
- "description":"Ajude a manteros melhores temas em nossa loja! 😍😎",
- "button_url":"DOAR",
- "url":"https://tgho.st/D9mU3",
- "id":"doarmts2"
-},
 {
  "type":"banner",
  "banner_url":"https://telegra.ph/Speed-Up-Add-on-10-18",
@@ -15,6 +5,6 @@
  "description":"Ainda não sabe baixar temas na loja ? Assista ao vídeo e aprenda a baixar os melhores temas! 😍😎",
  "button_url":"Assistir",
  "url":"https://youtu.be/nLkmrqqGCSk",
- "id":"yotuubmgp2"
+ "id":"yotuumgp2"
 }]
 
