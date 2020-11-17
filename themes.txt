@@ -986,7 +986,7 @@
 },
 {
   "theme_server":"WAMods",
-  "theme_name":"DELTA V3.5.0",
+  "theme_name":"DELTA V3.5.1",
   "theme_user":"Gean",
   "theme_date":"11 de novembro",
   "theme_size":"43,8 MB",
