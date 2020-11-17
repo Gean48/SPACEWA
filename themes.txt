@@ -62,7 +62,7 @@
 },
 {
   "theme_server":"FMWhatsApp",
-  "theme_name":"UI Pink",
+  "theme_name":"Sam",
   "theme_user":"Sam",
   "theme_date":"17 de novembro",
   "theme_size":"734,7 KB",
