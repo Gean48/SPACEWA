@@ -14,18 +14,6 @@
 },
 {
 "theme_server":"DELTA",
-"theme_name":"BlackPink - Jennie",
-"theme_user":"Erio Silva",
-"theme_date":"19 de novembro",
-"theme_size":"836,7 KB",
-"theme_preview_1":"https://telegra.ph/file/97b4586bccd3361f6a70a.jpg",
-"theme_preview_2":"https://telegra.ph/file/c2def439bcf19b6e36480.jpg",
-"theme_preview_3":"https://telegra.ph/file/d3baa0879accf4b4a7576.jpg",
-"theme_download_noads":"https://www.mediafire.com/download/ij8xhsi49vyfy09",
-"theme_download":"https://bit.ly/3lK4OIl"
-},
-{
-"theme_server":"DELTA",
 "theme_name":"UI Clean",
 "theme_user":"Erio Silva",
 "theme_date":"19 de novembro",
