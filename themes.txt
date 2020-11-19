@@ -2,6 +2,18 @@
 
 {
 "theme_server":"DELTA",
+"theme_name":"Allo Theme",
+"theme_user":"Erio Silva",
+"theme_date":"19 de novembro",
+"theme_size":"4,2 KB",
+"theme_preview_1":"https://telegra.ph/file/ab89acff6489cd7967804.jpg",
+"theme_preview_2":"https://telegra.ph/file/1063e13f1758950d10150.jpg",
+"theme_preview_3":"https://telegra.ph/file/130a154c8c2c96bf089e6.jpg",
+"theme_download_noads":"https://www.mediafire.com/download/c6uvqxrzpvt8808",
+"theme_download":"https://bit.ly/3foPNcZ"
+},
+{
+"theme_server":"DELTA",
 "theme_name":"Tobi Naruto",
 "theme_user":"Erio Silva",
 "theme_date":"19 de novembro",
