@@ -2,6 +2,18 @@
 
 {
 "theme_server":"DELTA",
+"theme_name":"Tobi Naruto",
+"theme_user":"Erio Silva",
+"theme_date":"19 de novembro",
+"theme_size":"1,0 MB",
+"theme_preview_1":"https://telegra.ph/file/17106af2f718dce8805f9.jpg",
+"theme_preview_2":"https://telegra.ph/file/04f6ba278b3a0dc4fa3a2.jpg",
+"theme_preview_3":"https://telegra.ph/file/d90580264393baab86731.jpg",
+"theme_download_noads":"https://www.mediafire.com/download/0ci7ue3w254n5re",
+"theme_download":"https://bit.ly/3pGwIHD"
+},
+{
+"theme_server":"DELTA",
 "theme_name":"BlackPink - Jennie",
 "theme_user":"Erio Silva",
 "theme_date":"19 de novembro",
