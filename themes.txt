@@ -3,7 +3,7 @@
 {
   "theme_server":"FMWhatsApp",
   "theme_name":"Broly",
-  "theme_user":"Gean",
+  "theme_user":"Dom Gean",
   "theme_date":"22 de novembro",
   "theme_size":"752,7 KB",
   "theme_preview_1":"https://telegra.ph/file/7b3529badfe13a5ef7e7d.jpg",
@@ -15,7 +15,7 @@
 {
   "theme_server":"FMWhatsApp",
   "theme_name":"Fofo 07",
-  "theme_user":"Gean",
+  "theme_user":"Dom Gean",
   "theme_date":"22 de novembro",
   "theme_size":"1,5 MB",
   "theme_preview_1":"https://telegra.ph/file/fb0b6a86a43a962129ffa.jpg",
@@ -27,7 +27,7 @@
 {
   "theme_server":"FMWhatsApp",
   "theme_name":"Fofo 08",
-  "theme_user":"Gean",
+  "theme_user":"Dom Gean",
   "theme_date":"22 de novembro",
   "theme_size":"726,8 KB",
   "theme_preview_1":"https://telegra.ph/file/863ae67dd47577f4b0cf3.jpg",
@@ -39,7 +39,7 @@
 {
   "theme_server":"FMWhatsApp",
   "theme_name":"Fofo 09",
-  "theme_user":"Gean",
+  "theme_user":"Dom Gean",
   "theme_date":"22 de novembro",
   "theme_size":"520,8 KB",
   "theme_preview_1":"https://telegra.ph/file/68d7843e04a0648837bfa.jpg",
@@ -51,7 +51,7 @@
 {
   "theme_server":"FMWhatsApp",
   "theme_name":"Trunks",
-  "theme_user":"Gean",
+  "theme_user":"Dom Gean",
   "theme_date":"22 de novembro",
   "theme_size":"1,0 MB",
   "theme_preview_1":"https://telegra.ph/file/9c082ed565ce5b8b355f9.jpg",
