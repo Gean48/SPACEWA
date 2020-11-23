@@ -60,7 +60,6 @@
   "theme_download_noads":"https://tgho.st/keZLN",
   "theme_download":"https://bit.ly/39afbSq"
 },
-
 {
   "theme_server":"DELTA",
   "theme_name":"Broly",
