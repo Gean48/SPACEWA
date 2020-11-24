@@ -3,7 +3,7 @@
 {
   "theme_server":"YxWhatsApp",
   "theme_name":"Goku",
-  "theme_user":"Gean",
+  "theme_user":"Dom Gean",
   "theme_date":"24 de novembro",
   "theme_size":"1,6 MB",
   "theme_preview_1":"https://telegra.ph/file/6e5907614f5992b05159d.jpg",
@@ -15,7 +15,7 @@
 {
   "theme_server":"YxWhatsApp",
   "theme_name":"Puff",
-  "theme_user":"Gean",
+  "theme_user":"Dom Gean",
   "theme_date":"24 de novembro",
   "theme_size":"224,5 KB",
   "theme_preview_1":"https://telegra.ph/file/68073564e1ea963a834e4.jpg",
@@ -27,7 +27,7 @@
 {
   "theme_server":"YxWhatsApp",
   "theme_name":"Kawaii 01",
-  "theme_user":"Gean",
+  "theme_user":"Dom Gean",
   "theme_date":"24 de novembro",
   "theme_size":"696,1 KB",
   "theme_preview_1":"https://telegra.ph/file/27dfb2a64a1f2da532998.jpg",
@@ -39,7 +39,7 @@
 {
   "theme_server":"YxWhatsApp",
   "theme_name":"Kawaii 02",
-  "theme_user":"Gean",
+  "theme_user":"Dom Gean",
   "theme_date":"24 de novembro",
   "theme_size":"678,0 KB",
   "theme_preview_1":"https://telegra.ph/file/79b86d8ba0b8e0be77c78.jpg",
@@ -51,7 +51,7 @@
 {
   "theme_server":"YxWhatsApp",
   "theme_name":"Gohan",
-  "theme_user":"Gean",
+  "theme_user":"Dom Gean",
   "theme_date":"24 de novembro",
   "theme_size":"1,4 MB",
   "theme_preview_1":"https://telegra.ph/file/86a685be1763f81bd3899.jpg",
