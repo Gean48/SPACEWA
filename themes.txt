@@ -1780,9 +1780,9 @@
 },
 {
   "theme_server":"WAMods",
-  "theme_name":"DELTA V3.5.1",
+  "theme_name":"DELTA V3.5.2",
   "theme_user":"Gean",
-  "theme_date":"11 de novembro",
+  "theme_date":"26 de novembro",
   "theme_size":"43,8 MB",
   "theme_preview_1":"https://telegra.ph/file/317d57b9de851942d0066.jpg",
   "theme_preview_2":"https://telegra.ph/file/933d54e9bd77832085148.jpg",
