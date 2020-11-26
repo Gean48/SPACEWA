@@ -1768,18 +1768,6 @@
 },
 {
   "theme_server":"WAMods",
-  "theme_name":"Yx ALFA v8.72.2",
-  "theme_user":"Gean",
-  "theme_date":"18 de novembro",
-  "theme_size":"48,6 MB",
-  "theme_preview_1":"https://telegra.ph/file/a3645d3ac0bc033b69f37.jpg",
-  "theme_preview_2":"https://telegra.ph/file/1226fb93d15a789b2b63b.jpg",
-  "theme_preview_3":"https://telegra.ph/file/238cd076efb08d4011443.jpg",
-  "theme_download_noads":"https://tgho.st/keZLN",
-  "theme_download":"https://modsalfa.blogspot.com/2020/05/yxwa-alfa.html?m=1"
-},
-{
-  "theme_server":"WAMods",
   "theme_name":"DELTA V3.5.2",
   "theme_user":"Gean",
   "theme_date":"26 de novembro",
@@ -1789,4 +1777,16 @@
   "theme_preview_3":"https://telegra.ph/file/96f203a849f43f67403ce.jpg",
   "theme_download_noads":"https://tgho.st/keZLN",
   "theme_download":"https://modsalfa.blogspot.com/2020/04/delta-yowa.html"
+},
+{
+  "theme_server":"WAMods",
+  "theme_name":"Yx ALFA v8.72.2",
+  "theme_user":"Gean",
+  "theme_date":"18 de novembro",
+  "theme_size":"48,6 MB",
+  "theme_preview_1":"https://telegra.ph/file/a3645d3ac0bc033b69f37.jpg",
+  "theme_preview_2":"https://telegra.ph/file/1226fb93d15a789b2b63b.jpg",
+  "theme_preview_3":"https://telegra.ph/file/238cd076efb08d4011443.jpg",
+  "theme_download_noads":"https://tgho.st/keZLN",
+  "theme_download":"https://modsalfa.blogspot.com/2020/05/yxwa-alfa.html?m=1"
 }]
