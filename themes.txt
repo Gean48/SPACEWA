@@ -22,7 +22,7 @@
   "theme_preview_2":"https://telegra.ph/file/4c3da21f8d2b14b989e8b.jpg",
   "theme_preview_3":"https://telegra.ph/file/d71180f55588398cd24b5.jpg",
   "theme_download_noads":"https://tgho.st/keZLN",
-  "theme_download":"https://stfly.me/DT-KAWAII02"
+  "theme_download":"https://bit.ly/2VaHyrl"
 },
 {
   "theme_server":"DELTA",
@@ -34,7 +34,7 @@
   "theme_preview_2":"https://telegra.ph/file/118547956516100cbb49b.jpg",
   "theme_preview_3":"https://telegra.ph/file/8ebf2aaaaee7b3514dae1.jpg",
   "theme_download_noads":"https://tgho.st/keZLN",
-  "theme_download":"https://stfly.me/DT-KAWAII01"
+  "theme_download":"https://bit.ly/2Vefx2k"
 },
 {
   "theme_server":"DELTA",
@@ -58,7 +58,7 @@
   "theme_preview_2":"https://telegra.ph/file/217c751a0d01a8bfd6042.jpg",
   "theme_preview_3":"https://telegra.ph/file/29394913d467150b3279e.jpg",
   "theme_download_noads":"https://tgho.st/keZLN",
-  "theme_download":"https://stfly.me/DT-PUFF"
+  "theme_download":"https://bit.ly/3lilJku"
 },
 {
   "theme_server":"DELTA",
