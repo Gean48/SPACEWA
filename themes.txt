@@ -271,7 +271,7 @@
   "theme_date":"22 de novembro",
   "theme_size":"1,0 MB",
   "theme_preview_1":"https://telegra.ph/file/23997bc8d0565f468e2ca.jpg",
-  "theme_preview_2":"https://telegra.ph/file/6ccd58eb507376a811168.jpg",
+  "theme_preview_2":"https://telegra.ph/file/23997bc8d0565f468e2ca.jpg",
   "theme_preview_3":"https://telegra.ph/file/7d756fe2b4c134b6c56f5.jpg",
   "theme_download_noads":"https://tgho.st/keZLN",
   "theme_download":"https://bit.ly/2V4k4o5"
