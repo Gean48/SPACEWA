@@ -125,7 +125,7 @@
   "theme_name":"Jesus",
   "theme_user":"Dom Gean",
   "theme_date":"27 de novembro",
-  "theme_size":"1,15 KB",
+  "theme_size":"1,15 MB",
   "theme_preview_1":"https://telegra.ph/file/96d9874b1fa3d9baa712b.jpg",
   "theme_preview_2":"https://telegra.ph/file/ac866aed1392841e06332.jpg",
   "theme_preview_3":"https://telegra.ph/file/ec8bd5088fda66e6a370a.jpg",
