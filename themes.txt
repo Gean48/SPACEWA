@@ -10,7 +10,7 @@
   "theme_preview_2":"https://telegra.ph/file/57f8fd91d995ad6db21bf.jpg",
   "theme_preview_3":"https://telegra.ph/file/3ce273f3d733d75bc6db0.jpg",
   "theme_download_noads":"https://tgho.st/80sQe",
-  "theme_download":"https://bit.ly/33zRBep"
+  "theme_download":"https://bit.ly/37s7Rz7"
 },
 {
   "theme_server":"YxWhatsApp",
@@ -22,7 +22,7 @@
   "theme_preview_2":"https://telegra.ph/file/02f1cec953b00804f5b01.jpg",
   "theme_preview_3":"https://telegra.ph/file/7305ef8027d983d5fd432.jpg",
   "theme_download_noads":"https://tgho.st/GFHFW",
-  "theme_download":"https://bit.ly/2JrFBEt"
+  "theme_download":"https://bit.ly/2JBtYLd"
 },
 {
   "theme_server":"YxWhatsApp",
@@ -34,7 +34,7 @@
   "theme_preview_2":"https://telegra.ph/file/a2405632c4b8ebc4ea688.jpg",
   "theme_preview_3":"https://telegra.ph/file/5edd185bac0fd696e5737.jpg",
   "theme_download_noads":"https://tgho.st/ujqR8",
-  "theme_download":"https://bit.ly/3qkbBv0"
+  "theme_download":"https://bit.ly/2JI2svt"
 },
 {
   "theme_server":"YxWhatsApp",
@@ -46,7 +46,7 @@
   "theme_preview_2":"https://telegra.ph/file/e2dc737e44475fd0fd803.jpg",
   "theme_preview_3":"https://telegra.ph/file/421c8f0855d1f8abeef58.jpg",
   "theme_download_noads":"https://tgho.st/HlIeG",
-  "theme_download":"https://bit.ly/2JuGVGP"
+  "theme_download":"https://bit.ly/3mzgE8T"
 },
 {
   "theme_server":"YxWhatsApp",
@@ -58,7 +58,7 @@
   "theme_preview_2":"https://telegra.ph/file/2810acfd1274d7f1ed608.jpg",
   "theme_preview_3":"https://telegra.ph/file/0166bf703d98fa93efa7f.jpg",
   "theme_download_noads":"https://tgho.st/GFHFW",
-  "theme_download":"https://bit.ly/3fUw9FH"
+  "theme_download":"https://bit.ly/3gcU4k9"
 },
 {
   "theme_server":"AERO",
