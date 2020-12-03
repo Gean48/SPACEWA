@@ -2020,6 +2020,18 @@
 },
 {
   "theme_server":"WAMods",
+  "theme_name":"FOUAD v8.60",
+  "theme_user":"Dom Gean",
+  "theme_date":"03 de dezembro",
+  "theme_size":"44,35 MB",
+  "theme_preview_1":"https://telegra.ph/file/58eb2157c1a2eedd8baab.jpg",
+  "theme_preview_2":"https://telegra.ph/file/819627d25276d3b3ffdc5.jpg",
+  "theme_preview_3":"https://telegra.ph/file/d566a3b4127b36343388a.jpg",
+  "theme_download_noads":"https://tgho.st/keZLN",
+  "theme_download":"https://modsalfa.blogspot.com/2020/03/fmwhatsapp.html"
+},
+{
+  "theme_server":"WAMods",
   "theme_name":"DELTA V3.5.2",
   "theme_user":"Gean",
   "theme_date":"26 de novembro",
