@@ -1,10 +1,10 @@
 {
  "type":"banner",
  "banner_url":"https://telegra.ph/Speed-Up-Add-on-10-18",
- "title":"Como baixar temas na loja?",
- "description":"Assista ao vídeo e aprenda a baixar os melhores temas! 😍😎",
- "button_url":"Assistir",
- "url":"https://youtu.be/nLkmrqqGCSk",
- "id":"yuttusbermgp2"
+ "title":"Você conhece o YxWa ALFA?",
+ "description":"Se não, baixe ja e tenha o melhor WhatsApp modificado! 😍😎",
+ "button_url":"BAIXAR",
+ "url":"https://modsalfa.blogspot.com/2020/05/yxwa-alfa.html",
+ "id":"yuttutbermgp2"
 }
 
