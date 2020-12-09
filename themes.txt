@@ -612,8 +612,6 @@
   "theme_download_noads":"https://tgho.st/HlIeG",
   "theme_download":"https://bit.ly/35RhwzO"
 },
-
-
 {
   "theme_server":"AERO",
   "theme_name":"Aqua",
