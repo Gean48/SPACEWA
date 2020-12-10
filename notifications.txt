@@ -4,7 +4,7 @@
  "title":"Não sabe passar pelos encurtadores?",
  "description":"Assista aqui um video que ensina como passar pelos encurtadores da loja :)",
  "button_url":"assistir",
- "url":"https://youtu.be/nLkmrqqGCSk",
+ "url":"https://youtumbe/nLkmrqqGCSk",
  "id":"yuttuubermgp2"
 }
 
