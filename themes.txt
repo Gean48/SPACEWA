@@ -1,42 +1,6 @@
 [
 
 {
-  "theme_server":"YxWhatsApp",
-  "theme_name":"Mago Negro",
-  "theme_user":"Dom Gean",
-  "theme_date":"14 de dezembro",
-  "theme_size":"115,8 KB",
-  "theme_preview_1":"https://telegra.ph/file/890241526b5021ba3bba0.jpg",
-  "theme_preview_2":"https://telegra.ph/file/4998a143384ed7dcb465c.jpg",
-  "theme_preview_3":"https://telegra.ph/file/a2557af644da830ef2cc2.jpg",
-  "theme_download_noads":"https://tgho.st/keZLN",
-  "theme_download":"https://bit.ly/3nkF9ac"
-},
-{
-  "theme_server":"YxWhatsApp",
-  "theme_name":"Lolli 03",
-  "theme_user":"Dom Gean",
-  "theme_date":"14 de dezembro",
-  "theme_size":"590,8 KB",
-  "theme_preview_1":"https://telegra.ph/file/54a93e0882bc327b52631.jpg",
-  "theme_preview_2":"https://telegra.ph/file/680d244d9c3c3834fb83e.jpg",
-  "theme_preview_3":"https://telegra.ph/file/ac369147c4474597dd967.jpg",
-  "theme_download_noads":"https://tgho.st/keZLN",
-  "theme_download":"https://bit.ly/2WdO0hM"
-},
-{
-  "theme_server":"YxWhatsApp",
-  "theme_name":"Kawaii 04",
-  "theme_user":"Dom Gean",
-  "theme_date":"14 de dezembro",
-  "theme_size":"434,6 KB",
-  "theme_preview_1":"https://telegra.ph/file/7f7576d37868eb46c9a37.jpg",
-  "theme_preview_2":"https://telegra.ph/file/96cbc9ff2b228434eb07b.jpg",
-  "theme_preview_3":"https://telegra.ph/file/b43a8ef08f6c25fce3d35.jpg",
-  "theme_download_noads":"https://tgho.st/keZLN",
-  "theme_download":"https://bit.ly/3gLiJwl"
-},
-{
   "theme_server":"FMWhatsApp",
   "theme_name":"Naruto",
   "theme_user":"Dom Gean",
