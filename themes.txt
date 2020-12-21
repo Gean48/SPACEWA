@@ -1370,13 +1370,13 @@
 },
 {
   "theme_server":"WAMods",
-  "theme_name":"YxWa ALFA v8.75",
+  "theme_name":"YxWa ALFA v8.80",
   "theme_user":"Gean",
-  "theme_date":"06 de dezembro",
+  "theme_date":"20 de dezembro",
   "theme_size":"48,6 MB",
-  "theme_preview_1":"https://telegra.ph/file/14bdc286b90647218a396.jpg",
-  "theme_preview_2":"https://telegra.ph/file/7ce923d00cd923ede5a84.jpg",
-  "theme_preview_3":"https://telegra.ph/file/ca4cc2ea957d92da95054.jpg",
+  "theme_preview_1":"https://telegra.ph/file/2d1ce4ce88ce6420b29ee.jpg",
+  "theme_preview_2":"https://telegra.ph/file/5b83236efb6386b553ac4.jpg",
+  "theme_preview_3":"https://telegra.ph/file/9c80f02ae63985be494fd.jpg",
   "theme_download_noads":"https://tgho.st/keZLN",
   "theme_download":"https://modsalfa.blogspot.com/2020/05/yxwa-alfa.html"
 },
