@@ -1,7 +1,8 @@
 [{
   "title":"⚠️ Aviso",
   "content":"Teste de notificação",
-  "is_web":"false", 
+  "is_web":"false",
+  "button":"teste",
   "url":"",
   "id":"00001"
 },
@@ -9,6 +10,7 @@
   "title":"Como baixar os temas",
   "content":"Veja no YouTube como baixar os temas",
   "is_web":"true", 
+  "button":"teste",
   "url":"Link do site",
   "id":"00000"
 }]
