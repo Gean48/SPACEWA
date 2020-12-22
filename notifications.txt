@@ -1,10 +1,10 @@
 {
  "type":"banner",
  "banner_url":"https://telegra.ph/Speed-Up-Add-on-10-18",
- "title":"Não sabe passar pelos encurtadores?",
- "description":"Assista aqui um video que ensina como passar pelos encurtadores da loja :)",
- "button_url":"assistir",
- "url":"https://youtumbe/nLkmrqqGCSk",
- "id":"yuttuebermgp2"
+ "title":"New version / Nova versão Alfa - Temas",
+ "description":"Baixe a nova versão da loja de temas :)",
+ "button_url":"Baixar",
+ "url":"https://modsalfa.blogspot.com/2020/04/temas.html",
+ "id":"yuttufbermgp2"
 }
 
