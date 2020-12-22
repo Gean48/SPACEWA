@@ -7,6 +7,14 @@
   "id":"00001"
 },
 {
+  "title":"⚠️ Aviso",
+  "content":"Teste de notificação",
+  "is_web":"false",
+  "button":"teste",
+  "url":"",
+  "id":"00003"
+},
+{
   "title":"Como baixar os temas",
   "content":"Veja no YouTube como baixar os temas",
   "is_web":"true", 
