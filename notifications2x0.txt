@@ -1,0 +1,14 @@
+[{
+  "title":"⚠️ Aviso",
+  "content":"Teste de notificação",
+  "is_web":"false", 
+  "url":"",
+  "id":"00001"
+},
+{
+  "title":"Como baixar os temas",
+  "content":"Veja no YouTube como baixar os temas",
+  "is_web":"true", 
+  "url":"Link do site",
+  "id":"00000"
+}]
