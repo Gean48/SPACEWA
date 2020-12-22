@@ -1,14 +1,14 @@
 [{
-  "title":"⚠️ Aviso",
-  "content":"Teste de notificação",
+  "title":"👥 Suporte",
+  "content":"Participe do grupo para ter suporte de ALFA Mods",
   "is_web":"false",
-  "button":"teste",
-  "url":"",
+  "button":"PARTICIPAR",
+  "url":"https://t.me/AMGrupo",
   "id":"00001"
 },
 {
-  "title":"⚠️ Aviso",
-  "content":"Teste de notificação",
+  "title":"〽️ YouTube",
+  "content":"Acesse ja outros conteúdos de ALFA Mods",
   "is_web":"false",
   "button":"teste",
   "url":"",
