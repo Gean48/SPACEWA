@@ -9,7 +9,7 @@
 {
   "title":"〽️ YouTube",
   "content":"Acesse ja outros conteúdos de ALFA Mods",
-  "is_web":"false",
+  "is_web":"true",
   "button":"ACESSAR",
   "url":"https://www.youtube.com/channel/UCA7rNRod2AjjzZiMro0vFrg",
   "id":"00003"
@@ -17,7 +17,7 @@
 {
   "title":"👥 Suporte",
   "content":"Participe do grupo para ter suporte de ALFA Mods",
-  "is_web":"false",
+  "is_web":"true",
   "button":"PARTICIPAR",
   "url":"https://t.me/AMGrupo",
   "id":"00001"
