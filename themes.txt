@@ -1,6 +1,18 @@
 [
 
 {
+  "theme_server":"DELTA",
+  "theme_name":"Kawaii 04",
+  "theme_user":"Dom Gean",
+  "theme_date":"23 de dezembro",
+  "theme_size":"435,6 KB",
+  "theme_preview_1":"https://telegra.ph/file/8e191eaaaca09a1860d3a.jpg",
+  "theme_preview_2":"https://telegra.ph/file/fd6bd2e31986df3ca11ca.jpg",
+  "theme_preview_3":"https://telegra.ph/file/a631e5885f585a6c75c7e.jpg",
+  "theme_download_noads":"https://tgho.st/keZLN",
+  "theme_download":"https://bit.ly/38tUE9u"
+},
+{
   "theme_server":"FMWhatsApp",
   "theme_name":"Mago Negro",
   "theme_user":"Gean",
