@@ -1486,7 +1486,7 @@
   "theme_preview_2":"https://telegra.ph/file/819627d25276d3b3ffdc5.jpg",
   "theme_preview_3":"https://telegra.ph/file/d566a3b4127b36343388a.jpg",
   "theme_download_noads":"https://tgho.st/keZLN",
-  "theme_download":"https://modsalfa.blogspot.com/2020/03/fmwhatsapp.html"
+  "theme_download":"https://telegra.ph/FMWhatsApp-FOUAD-12-24"
 },
 {
   "theme_server":"WAMods",
