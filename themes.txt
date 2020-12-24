@@ -1474,7 +1474,7 @@
   "theme_preview_2":"https://telegra.ph/file/5b83236efb6386b553ac4.jpg",
   "theme_preview_3":"https://telegra.ph/file/9c80f02ae63985be494fd.jpg",
   "theme_download_noads":"https://tgho.st/keZLN",
-  "theme_download":"https://modsalfa.blogspot.com/2020/05/yxwa-alfa.html"
+  "theme_download":"https://telegra.ph/YxWa-Alfa-12-24"
 },
 {
   "theme_server":"WAMods",
