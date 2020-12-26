@@ -1,7 +1,7 @@
 [
 
 {
-   "theme_server":"DELTA",
+  "theme_server":"DELTA",
   "theme_name":"Menina Verde",
   "theme_user":"Grisna",
   "theme_date":"25 de dezembro",
