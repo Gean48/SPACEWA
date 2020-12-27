@@ -86,18 +86,6 @@
 },
 {
   "theme_server":"DELTA",
-  "theme_name":"Love",
-  "theme_user":"Grisna",
-  "theme_date":"26 de dezembro",
-  "theme_size":"0,99 MB",
-  "theme_preview_1":"https://telegra.ph/file/1aefc965cfb7702713373.jpg",
-  "theme_preview_2":"https://telegra.ph/file/e4dc7d6b1bd4ac8969d63.jpg",
-  "theme_preview_3":"https://telegra.ph/file/482a5016cbc68023386df.jpg",
-  "theme_download_noads":"https://tgho.st/keZLN",
-  "theme_download":"https://bit.ly/37LAhpc"
-},
-{
-  "theme_server":"DELTA",
   "theme_name":"Love1",
   "theme_user":"Grisna",
   "theme_date":"26 de dezembro",
