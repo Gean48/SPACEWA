@@ -2,30 +2,6 @@
 
 {
   "theme_server":"DELTA",
-  "theme_name":"Love",
-  "theme_user":"Grisna",
-  "theme_date":"26 de dezembro",
-  "theme_size":"0,99 MB",
-  "theme_preview_1":"https://telegra.ph/file/1aefc965cfb7702713373.jpg",
-  "theme_preview_2":"https://telegra.ph/file/e4dc7d6b1bd4ac8969d63.jpg",
-  "theme_preview_3":"https://telegra.ph/file/482a5016cbc68023386df.jpg",
-  "theme_download_noads":"https://tgho.st/keZLN",
-  "theme_download":"https://bit.ly/37LAhpc"
-},
-{
-  "theme_server":"DELTA",
-  "theme_name":"Girl",
-  "theme_user":"Grisna",
-  "theme_date":"26 de dezembro",
-  "theme_size":"396 KB",
-  "theme_preview_1":"https://telegra.ph/file/21ad9ac1712a4563d13ae.jpg",
-  "theme_preview_2":"https://telegra.ph/file/9b46a1aa11921f50cf6c1.jpg",
-  "theme_preview_3":"https://telegra.ph/file/2b0824212ae3917b1a7a2.jpg",
-  "theme_download_noads":"https://tgho.st/keZLN",
-  "theme_download":"https://bit.ly/37NqJdm"
-},
-{
-  "theme_server":"DELTA",
   "theme_name":"Anime",
   "theme_user":"Grisna",
   "theme_date":"26 de dezembro",
@@ -47,18 +23,6 @@
   "theme_preview_3":"https://telegra.ph/file/0316bce0f1373d82d3b1d.jpg",
   "theme_download_noads":"https://tgho.st/keZLN",
   "theme_download":"https://bit.ly/2WMrDjT"
-},
-{
-  "theme_server":"DELTA",
-  "theme_name":"Girl",
-  "theme_user":"Grisna",
-  "theme_date":"26 de dezembro",
-  "theme_size":"396 KB",
-  "theme_preview_1":"https://telegra.ph/file/21ad9ac1712a4563d13ae.jpg",
-  "theme_preview_2":"https://telegra.ph/file/9b46a1aa11921f50cf6c1.jpg",
-  "theme_preview_3":"https://telegra.ph/file/2b0824212ae3917b1a7a2.jpg",
-  "theme_download_noads":"https://tgho.st/keZLN",
-  "theme_download":"https://bit.ly/37NqJdm"
 },
 {
   "theme_server":"DELTA",
@@ -131,18 +95,6 @@
   "theme_preview_3":"https://telegra.ph/file/482a5016cbc68023386df.jpg",
   "theme_download_noads":"https://tgho.st/keZLN",
   "theme_download":"https://bit.ly/37LAhpc"
-},
-{
-  "theme_server":"DELTA",
-  "theme_name":"Girl",
-  "theme_user":"Grisna",
-  "theme_date":"26 de dezembro",
-  "theme_size":"396 KB",
-  "theme_preview_1":"https://telegra.ph/file/65097077db1fed4b842b4.jpg",
-  "theme_preview_2":"https://telegra.ph/file/9b46a1aa11921f50cf6c1.jpg",
-  "theme_preview_3":"https://telegra.ph/file/2b0824212ae3917b1a7a2.jpg",
-  "theme_download_noads":"https://tgho.st/keZLN",
-  "theme_download":"https://bit.ly/37NqJdm"
 },
 {
   "theme_server":"DELTA",
