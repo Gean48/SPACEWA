@@ -1,18 +1,6 @@
 [
 
 {
-  "theme_server":"DELTA",
-  "theme_name":"Anime",
-  "theme_user":"Grisna",
-  "theme_date":"26 de dezembro",
-  "theme_size":"337 KB",
-  "theme_preview_1":"https://telegra.ph/file/1d414ddacd49166f485fd.jpg",
-  "theme_preview_2":"https://telegra.ph/file/af591bd3475b9d1daae0c.jpg",
-  "theme_preview_3":"https://telegra.ph/file/efbdb60cc12ab649c07bd.jpg",
-  "theme_download_noads":"https://tgho.st/keZLN",
-  "theme_download":"https://bit.ly/3hi7DPL"
-},
-{
   "theme_server":"Delta",
   "theme_name":"Kawaii",
   "theme_user":"Grisna",
@@ -25,18 +13,6 @@
   "theme_download":"https://bit.ly/2WMrDjT"
 },
 {
-  "theme_server":"DELTA",
-  "theme_name":"Anime",
-  "theme_user":"Grisna",
-  "theme_date":"26 de dezembro",
-  "theme_size":"337 KB",
-  "theme_preview_1":"https://telegra.ph/file/5d98d46e2f986152598d5.jpg",
-  "theme_preview_2":"https://telegra.ph/file/af591bd3475b9d1daae0c.jpg",
-  "theme_preview_3":"https://telegra.ph/file/efbdb60cc12ab649c07bd.jpg",
-  "theme_download_noads":"https://tgho.st/keZLN",
-  "theme_download":"https://bit.ly/3hi7DPL"
-},
-{
   "theme_server":"Delta",
   "theme_name":"Kawaii",
   "theme_user":"Grisna",
@@ -50,18 +26,6 @@
 },
 {
   "theme_server":"DELTA",
-  "theme_name":"Hello kitty",
-  "theme_user":"Grisna",
-  "theme_date":"26 de dezembro",
-  "theme_size":"486 KB",
-  "theme_preview_1":"https://telegra.ph/file/8711f83314932f0600c12.jpg",
-  "theme_preview_2":"https://telegra.ph/file/2f5138fd70ae330289f55.jpg",
-  "theme_preview_3":"https://telegra.ph/file/08e9954fda4675cf7aa35.jpg",
-  "theme_download_noads":"https://tgho.st/keZLN",
-  "theme_download":"https://bit.ly/2KVx1yu"
-},
-{
-  "theme_server":"DELTA",
   "theme_name":"Love1",
   "theme_user":"Grisna",
   "theme_date":"26 de dezembro",
@@ -71,54 +35,6 @@
   "theme_preview_3":"https://telegra.ph/file/7fc9d2bd155a66358b199.jpg",
   "theme_download_noads":"https://tgho.st/keZLN",
  "theme_download":"https://bit.ly/3rxpW8m"
-},
-{
-  "theme_server":"DELTA",
-  "theme_name":"Hello kitty",
-  "theme_user":"Grisna",
-  "theme_date":"26 de dezembro",
-  "theme_size":"486 KB",
-  "theme_preview_1":"https://telegra.ph/file/8711f83314932f0600c12.jpg",
-  "theme_preview_2":"https://telegra.ph/file/2f5138fd70ae330289f55.jpg",
-  "theme_preview_3":"https://telegra.ph/file/08e9954fda4675cf7aa35.jpg",
-  "theme_download_noads":"https://tgho.st/keZLN",
-  "theme_download":"https://bit.ly/2KVx1yu"
-},
-{
-  "theme_server":"DELTA",
-  "theme_name":"Love",
-  "theme_user":"Grisna",
-  "theme_date":"26 de dezembro",
-  "theme_size":"0,99 MB",
-  "theme_preview_1":"https://telegra.ph/file/1aefc965cfb7702713373.jpg",
-  "theme_preview_2":"https://telegra.ph/file/e4dc7d6b1bd4ac8969d63.jpg",
-  "theme_preview_3":"https://telegra.ph/file/482a5016cbc68023386df.jpg",
-  "theme_download_noads":"https://tgho.st/keZLN",
-  "theme_download":"https://bit.ly/37LAhpc"
-},
-{
-  "theme_server":"DELTA",
-  "theme_name":"Anime",
-  "theme_user":"Grisna",
-  "theme_date":"26 de dezembro",
-  "theme_size":"337 KB",
-  "theme_preview_1":"https://telegra.ph/file/5d98d46e2f986152598d5.jpg",
-  "theme_preview_2":"https://telegra.ph/file/af591bd3475b9d1daae0c.jpg",
-  "theme_preview_3":"https://telegra.ph/file/efbdb60cc12ab649c07bd.jpg",
-  "theme_download_noads":"https://tgho.st/keZLN",
-  "theme_download":"https://bit.ly/3hi7DPL"
-},
-{
-  "theme_server":"Delta",
-  "theme_name":"Kawaii",
-  "theme_user":"Grisna",
-  "theme_date":"26 de dezembro",
-  "theme_size":"318 KB",
-  "theme_preview_1":"https://telegra.ph/file/e64331f0c288671f60f5b.jpg",
-  "theme_preview_2":"https://telegra.ph/file/e36ff7fd22ad671c12a87.jpg",
-  "theme_preview_3":"https://telegra.ph/file/0316bce0f1373d82d3b1d.jpg",
-  "theme_download_noads":"https://tgho.st/keZLN",
-  "theme_download":"https://bit.ly/37S3PSe"
 },
 {
   "theme_server":"DELTA",
