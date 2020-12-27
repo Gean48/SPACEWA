@@ -2,6 +2,30 @@
 
 {
   "theme_server":"DELTA",
+  "theme_name":"IOS Dark",
+  "theme_user":"Dom Gean",
+  "theme_date":"27 de dezembro",
+  "theme_size":"tamanho",
+  "theme_preview_1":"https://telegra.ph/file/89b1f67f6d6971dbd2105.jpg",
+  "theme_preview_2":"https://telegra.ph/file/bb14baa1553f793b13e41.jpg",
+  "theme_preview_3":"https://telegra.ph/file/40eea08e6b8b109696ab5.jpg",
+  "theme_download_noads":"https://tgho.st/keZLN",
+  "theme_download":"https://bit.ly/34MiOey"
+},
+{
+  "theme_server":"DELTA",
+  "theme_name":"IOS White",
+  "theme_user":"Dom Gean",
+  "theme_date":"27 de dezembro",
+  "theme_size":"tamanho",
+  "theme_preview_1":"https://telegra.ph/file/8da003dd4d22a6537d65e.jpg",
+  "theme_preview_2":"https://telegra.ph/file/3080a29ddce71f0faa0b6.jpg",
+  "theme_preview_3":"https://telegra.ph/file/6c1ec1debf7da91038cba.jpg",
+  "theme_download_noads":"https://tgho.st/keZLN",
+  "theme_download":"https://bit.ly/3nW7QKI"
+},
+{
+  "theme_server":"DELTA",
   "theme_name":"Girl",
   "theme_user":"Grisna",
   "theme_date":"26 de dezembro",
