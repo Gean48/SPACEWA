@@ -1,7 +1,9 @@
 {
-  "title":"Como baixar os temas ?",
-  "content":"Veja o video de como você pode estar baixando noosos temas :)",
-  "is_web":"true", 
-  "url":"https://youtu.be/qgZKkoxUF_0",
-  "id":"0005"
-},
+ "type":"banner",
+ "banner_url":"https://telegra.ph/Speed-Up-Add-on-10-18",
+ "title":"New version / Nova versão Alfa - Temas",
+ "description":"Baixe a nova versão da loja de temas :)",
+ "button_url":"Baixar",
+ "url":"https://modsalfa.blogspot.com/2020/04/temas.html",
+ "id":"yuttuobermgp2"
+}
