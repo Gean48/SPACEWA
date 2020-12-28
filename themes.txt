@@ -46,7 +46,7 @@
   "theme_preview_2":"https://telegra.ph/file/ec86c535af0accab4d11d.jpg",
   "theme_preview_3":"https://telegra.ph/file/7088fb5b7a2fcea83d332.jpg",
   "theme_download_noads":"https://tgho.st/keZLN",
-  "theme_download":https://bit.ly/2MeQpas"
+  "theme_download":"https://bit.ly/2MeQpas"
 },
 {
   "theme_server":"DELTA",
