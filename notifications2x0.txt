@@ -2,6 +2,7 @@
   "title":"Como baixar os temas ?",
   "content":"Veja o video de como você pode estar baixando nossos temas :)",
   "is_web":"true", 
+  "button":"ACESSAR",
   "url":"https://youtu.be/qgZKkoxUF_0",
   "id":"00005"
 },
