@@ -28,7 +28,7 @@
   "theme_server":"AERO",
   "theme_name":"Mulher3",
   "theme_user":"Grisna",
-  "theme_date":"30de dezembro",
+  "theme_date":"30 de dezembro",
   "theme_size":"233 KB",
   "theme_preview_1":"https://telegra.ph/file/0ae8fb1e309661dd44779.jpg",
   "theme_preview_2":"https://telegra.ph/file/491a7a5f6bbb5a599c0d6.jpg",
