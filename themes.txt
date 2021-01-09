@@ -2004,40 +2004,4 @@
   "theme_download_noads":"https://tlgur.com/d/8ek1APkg",
   "theme_download":"https://bit.ly/3kRpzS7"
 },
-{
-  "theme_server":"WAMods",
-  "theme_name":"YxWa ALFA v8.80",
-  "theme_user":"Gean",
-  "theme_date":"20 de dezembro",
-  "theme_size":"48,6 MB",
-  "theme_preview_1":"https://telegra.ph/file/2d1ce4ce88ce6420b29ee.jpg",
-  "theme_preview_2":"https://telegra.ph/file/5b83236efb6386b553ac4.jpg",
-  "theme_preview_3":"https://telegra.ph/file/9c80f02ae63985be494fd.jpg",
-  "theme_download_noads":"https://tgho.st/keZLN",
-  "theme_download":"https://telegra.ph/YxWa-Alfa-12-24"
-},
-{
-  "theme_server":"WAMods",
-  "theme_name":"FOUAD v8.65",
-  "theme_user":"Dom Gean",
-  "theme_date":"11 de dezembro",
-  "theme_size":"44,35 MB",
-  "theme_preview_1":"https://telegra.ph/file/58eb2157c1a2eedd8baab.jpg",
-  "theme_preview_2":"https://telegra.ph/file/819627d25276d3b3ffdc5.jpg",
-  "theme_preview_3":"https://telegra.ph/file/d566a3b4127b36343388a.jpg",
-  "theme_download_noads":"https://tgho.st/keZLN",
-  "theme_download":"https://telegra.ph/FMWhatsApp-FOUAD-12-24"
-},
-{
-  "theme_server":"WAMods",
-  "theme_name":"DELTA V3.5.2",
-  "theme_user":"Gean",
-  "theme_date":"26 de novembro",
-  "theme_size":"43,8 MB",
-  "theme_preview_1":"https://telegra.ph/file/317d57b9de851942d0066.jpg",
-  "theme_preview_2":"https://telegra.ph/file/933d54e9bd77832085148.jpg",
-  "theme_preview_3":"https://telegra.ph/file/96f203a849f43f67403ce.jpg",
-  "theme_download_noads":"https://tgho.st/keZLN",
-  "theme_download":"https://telegra.ph/Delta-WhatsApp-12-24"
-}
 ]
