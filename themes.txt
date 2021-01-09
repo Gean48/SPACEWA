@@ -2,10 +2,22 @@
 
 {
   "theme_server":"AERO",
+  "theme_name":"Venom",
+  "theme_user":"Gean",
+  "theme_date":"08 de janeiro",
+  "theme_size":"238,2 KB",
+  "theme_preview_1":"https://telegra.ph/file/499dbfa16aeea27d4b3e9.jpg",
+  "theme_preview_2":"https://telegra.ph/file/d9eb9795dd0dbb134f302.jpg",
+  "theme_preview_3":"https://telegra.ph/file/49eda26a93c303eb8a386.jpg",
+  "theme_download_noads":"https://tgho.st/keZLN",
+  "theme_download":"https://bit.ly/3s5iKQV"
+},
+{
+  "theme_server":"AERO",
   "theme_name":"Harley Quinn",
   "theme_user":"Gean",
   "theme_date":"08 de janeiro",
-  "theme_size":"tamanho",
+  "theme_size":"561,9 KB",
   "theme_preview_1":"https://telegra.ph/file/f3e3bbc167f9f59bd72a5.jpg",
   "theme_preview_2":"https://telegra.ph/file/16ea3139d2a2ee9b98936.jpg",
   "theme_preview_3":"https://telegra.ph/file/72df46d157ba41f6fc644.jpg",
