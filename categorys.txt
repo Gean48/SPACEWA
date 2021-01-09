@@ -1,6 +1,6 @@
 {
-"category_title_1":"WhatsApp Mods",
- "category_tags_1":"WAMods",
+"category_title_1":"WMD2",
+ "category_tags_1":"WMD2",
  "category_title_2": "YxWhatsApp",
  "category_tags_2": "YxWhatsApp",
  "category_title_3":"FMWhatsApp",
