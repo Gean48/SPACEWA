@@ -2003,5 +2003,5 @@
   "theme_preview_3":"https://telegra.ph/file/369e30822a088e009d249.jpg",
   "theme_download_noads":"https://tlgur.com/d/8ek1APkg",
   "theme_download":"https://bit.ly/3kRpzS7"
-},
+}
 ]
