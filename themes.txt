@@ -2,6 +2,18 @@
 
 {
   "theme_server":"DELTA",
+  "theme_name":"Kawaii 06",
+  "theme_user":"Gean",
+  "theme_date":"17 de janeiro",
+  "theme_size":"671,67 KB",
+  "theme_preview_1":"https://telegra.ph/file/00b87de76803c2cd8c2b4.jpg",
+  "theme_preview_2":"https://telegra.ph/file/efe8e6c2e329355656f46.jpg",
+  "theme_preview_3":"https://telegra.ph/file/6c010c24a319ef6bd4792.jpg",
+  "theme_download_noads":"https://tgho.st/keZLN",
+  "theme_download":"https://bit.ly/35NKDDJ"
+},
+{
+  "theme_server":"DELTA",
   "theme_name":"Black V2",
   "theme_user":"Gean",
   "theme_date":"17 de janeiro",
