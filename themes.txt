@@ -23,7 +23,7 @@
   "theme_preview_3":"https://telegra.ph/file/d0d166cb1b121ba3be909.jpg",
   "theme_download_noads":"https://tgho.st/keZLN",
   "theme_download":"https://bit.ly/35OLAf2"
-{
+},
   "theme_server":"DELTA",
   "theme_name":"Ursinho",
   "theme_user":"Grisna",
