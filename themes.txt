@@ -1,7 +1,7 @@
 [
 
 {
-  "theme_server":"FMwhatsApp",
+  "theme_server":"FMWhatsApp",
   "theme_name":"Xícara",
   "theme_user":"Grisna",
   "theme_date":"24 de janeiro",
@@ -13,7 +13,7 @@
   "theme_download":"https://bit.ly/3oe1YMf"
 },
 {
-  "theme_server":"FMwhatsApp",
+  "theme_server":"FMWhatsApp",
   "theme_name":"Love",
   "theme_user":"Grisna",
   "theme_date":"24 de janeiro",
@@ -25,7 +25,7 @@
   "theme_download":"https://bit.ly/39WbkY8"
 },
 {
-  "theme_server":"FMwhatsApp",
+  "theme_server":"FMWhatsApp",
   "theme_name":"Girl rosa",
   "theme_user":"Grisna",
   "theme_date":"24 de janeiro",
