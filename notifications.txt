@@ -5,5 +5,5 @@
  "description":"Baixe a nova versão da loja de temas :)",
  "button_url":"Baixar",
  "url":"https://modsalfa.blogspot.com/2020/04/temas.html",
- "id":"yutturbermgp2"
+ "id":"yutvurbermgp2"
 }
