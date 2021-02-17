@@ -1,17 +1,17 @@
 [{
-  "title":"Como baixar os temas",
+  "title":"Como baixar os temas via ShrtFly",
   "content":"Veja o video de como você pode estar baixando nossos temas",
   "is_web":"true", 
   "button":"ACESSAR",
-  "url":"https://youtu.be/qgZKkoxUF_0",
+  "url":"https://youtu.be/fwvm5eG_Drw",
   "id":"00005"
 },
 {
-  "title":"〽️ YouTube",
-  "content":"Acesse ja outros conteúdos de ALFA Mods",
+  "title":"Como baixar os temas via EncurtaFly",
+  "content":"Veja o video de como você pode estar baixando nossos temas",
   "is_web":"true",
   "button":"ACESSAR",
-  "url":"https://www.youtube.com/channel/UCA7rNRod2AjjzZiMro0vFrg",
+  "url":"https://youtu.be/OLGyFHmwB6E",
   "id":"00003"
 },
 {
