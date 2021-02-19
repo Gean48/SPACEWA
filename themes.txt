@@ -1,42 +1,6 @@
 [
 
 {
-  "theme_server":"DELTA",
-  "theme_name":"Pink",
-  "theme_user":"Gean",
-  "theme_date":"17 de fevereiro",
-  "theme_size":"tamanho",
-  "theme_preview_1":"https://telegra.ph/file/9ea9e83328018652d3ef0.jpg",
-  "theme_preview_2":"https://telegra.ph/file/a5bfd830cd6f55f225714.jpg",
-  "theme_preview_3":"https://telegra.ph/file/61b1280c5f8bad4ef1ded.jpg",
-  "theme_download_noads":"https://tgho.st/Auoit",
-  "theme_download":"https://seulink.net/DT_PINK"
-},
-{
-  "theme_server":"DELTA",
-  "theme_name":"Ataque dos Titãs",
-  "theme_user":"Gean",
-  "theme_date":"17 de fevereiro",
-  "theme_size":"tamanho",
-  "theme_preview_1":"https://telegra.ph/file/0eac41afb70303fafc12b.jpg",
-  "theme_preview_2":"https://telegra.ph/file/88f0c932c16297a78e922.jpg",
-  "theme_preview_3":"https://telegra.ph/file/343c867451107106b09fa.jpg",
-  "theme_download_noads":"https://tgho.st/Auoit",
-  "theme_download":"https://seulink.net/DT_ATAQUE_DOS_TITAS"
-},
-{
-  "theme_server":"DELTA",
-  "theme_name":"Black Green",
-  "theme_user":"Gean",
-  "theme_date":"17 de fevereiro",
-  "theme_size":"tamanho",
-  "theme_preview_1":"https://telegra.ph/file/dd8f700abef5e99da0429.jpg",
-  "theme_preview_2":"https://telegra.ph/file/87e42037071ad959ee5ae.jpg",
-  "theme_preview_3":"https://telegra.ph/file/80a2d8837a2c617d6f4d6.jpg",
-  "theme_download_noads":"https://tgho.st/Auoit",
-  "theme_download":"https://seulink.net/DT_BACK_GREEN"
-},
-{
   "theme_server":"FMWhatsApp",
   "theme_name":"Black Green",
   "theme_user":"Gean",
