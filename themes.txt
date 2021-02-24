@@ -2,6 +2,18 @@
 
 {
   "theme_server":"DELTA",
+  "theme_name":"Broly",
+  "theme_user":"Gean",
+  "theme_date":"24 de fevereiro",
+  "theme_size":"1,0 MB",
+  "theme_preview_1":"https://telegra.ph/file/961a3960ac55c87017579.jpg",
+  "theme_preview_2":"https://telegra.ph/file/b667ef1dc1ef8c09decba.jpg",
+  "theme_preview_3":"https://telegra.ph/file/c1303098ec08d11c37f3f.jpg",
+  "theme_download_noads":"https://tgho.st/UWshY",
+  "theme_download":"https://bit.ly/3aIJj7T"
+},
+{
+  "theme_server":"DELTA",
   "theme_name":"Diamantes",
   "theme_user":"Grisna",
   "theme_date":"22 de fevereiro",
