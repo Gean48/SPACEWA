@@ -2,6 +2,18 @@
 
 {
   "theme_server":"DELTA",
+  "theme_name":"Corinthians",
+  "theme_user":"Gean",
+  "theme_date":"24 de fevereiro",
+  "theme_size":"253,4 KB",
+  "theme_preview_1":"https://telegra.ph/file/3e681b9e5e5049bbda602.jpg",
+  "theme_preview_2":"https://telegra.ph/file/744bd607499cd881b4d32.jpg",
+  "theme_preview_3":"https://telegra.ph/file/47fcf661d6485b002c483.jpg",
+  "theme_download_noads":"https://tgho.st/UWshY",
+  "theme_download":"https://bit.ly/3dta7Lc"
+},
+{
+  "theme_server":"DELTA",
   "theme_name":"Broly",
   "theme_user":"Gean",
   "theme_date":"24 de fevereiro",
