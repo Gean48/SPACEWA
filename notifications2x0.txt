@@ -24,9 +24,9 @@
 },
 {
   "title":"Canal Telegram",
-  "content":"Themes WhatsApp",
+  "content":"Themes for WhatsApp",
   "is_web":"true",
-  "button":"ACCESO",
+  "button":"ACESSAR",
   "url":"https://t.me/DGThemes",
   "id":"00004"
 }]
