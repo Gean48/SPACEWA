@@ -1,24 +1,32 @@
 [{
-  "title":"Como baixar os temas via ShrtFly",
+  "title":"Como posso baixar temas na loja ?",
   "content":"Veja o video de como você pode estar baixando nossos temas",
   "is_web":"true", 
   "button":"ACESSAR",
-  "url":"https://youtu.be/fwvm5eG_Drw",
+  "url":"https://youtu.be/qgZKkoxUF_0",
   "id":"00005"
 },
 {
-  "title":"Como baixar os temas via EncurtaFly",
-  "content":"Veja o video de como você pode estar baixando nossos temas",
+  "title":"How can I download themes from the store?",
+  "content":"Watch the video of how you can be downloading our themes",
   "is_web":"true",
-  "button":"ACESSAR",
-  "url":"https://youtu.be/OLGyFHmwB6E",
+  "button":"ACCESS",
+  "url":"https://youtu.be/qgZKkoxUF_0",
   "id":"00003"
 },
 {
-  "title":"👥 Suporte",
-  "content":"Participe do grupo para ter suporte de ALFA Mods",
+  "title":"Cómo puedo descargar temas de la tienda?",
+  "content":"Mira el video de cómo puedes descargar nuestros temas",
   "is_web":"true",
-  "button":"PARTICIPAR",
-  "url":"https://t.me/AMGrupo",
+  "button":"ACCESO",
+  "url":"https://youtu.be/qgZKkoxUF_0",
   "id":"00001"
+},
+{
+  "title":"Canal Telegram",
+  "content":"Themes WhatsApp",
+  "is_web":"true",
+  "button":"ACCESO",
+  "url":"https://t.me/DGThemes",
+  "id":"00004"
 }]
