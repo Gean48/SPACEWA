@@ -1,7 +1,7 @@
 [
 
 {
-  "theme_server":"Encurta Fly",
+  "theme_server":"DELTA",
   "theme_name":"Escuro",
   "theme_user":"Gean",
   "theme_date":"8 de março",
@@ -13,7 +13,7 @@
   "theme_download":"https://bit.ly/2OddEmq"
 },
 {
-  "theme_server":"Encurta Fly",
+  "theme_server":"DELTA",
   "theme_name":"Dorminhoco",
   "theme_user":"Gean",
   "theme_date":"8 de março",
