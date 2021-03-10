@@ -8,6 +8,6 @@
  "category_title_4":"AERO",
  "category_tags_4":"AERO",
  "category_title_5":"RC",
- "category_tags_5":"MD2",
+ "category_tags_5":"MD2"
 }
 
