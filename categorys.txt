@@ -6,6 +6,8 @@
  "category_title_3":"DELTA",
  "category_tags_3":"DELTA",
  "category_title_4":"AERO",
- "category_tags_4":"AERO"
+ "category_tags_4":"AERO",
+  "category_title_4":"RC",
+ "category_tags_4":"MD2",
 }
 
